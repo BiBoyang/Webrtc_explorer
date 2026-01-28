@@ -1,0 +1,3 @@
+[submodule "webrtc_m57/src"]
+	path = webrtc_m57/src
+	url = https://chromium.googlesource.com/external/webrtc.git
